@@ -1,6 +1,6 @@
 cask "webrender-markdown-editor" do
-  version "1.3.1"
-  sha256 "bc009e45b642d2503f7a584fa8a0d33c56030bbfa7f8a0437301e2a35e4a66ea"
+  version "1.4.0"
+  sha256 "93cf22bca4689c5d8bff5d2139400957514f00340f3f2af0e3c7d9e264d9d23c"
 
   url "https://github.com/josephnhopkins/markdown-viewer-releases/releases/download/v#{version}/MarkdownViewer-#{version}-osx-arm64.dmg"
   name "Webrender Markdown Editor"
